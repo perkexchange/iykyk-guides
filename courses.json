@@ -1,136 +1,76 @@
 {
   "courses": [
     {
-      "id": "level1",
-      "title": "Welcome to the World of Digital Money",
-      "description": "A friendly introduction to cryptocurrencies for beginners.",
-      "image": "/courses/level1/cover.jpg",
+      "id": "solman101",
+      "title": "Exploring SolMan: The Guardian of Solana",
+      "description": "Dive into the mission of SolMan, the memecoin aimed at promoting integrity and community in the Solana ecosystem.",
+      "image": "/courses/solman101/cover.jpeg",
       "featured": true,
       "slides": [
         {
           "type": "text",
-          "content": "# Welcome to Your Cryptocurrency Journey! 👋\n\nDear learner,\n\nJust like how we moved from letters to email, the world of money is also going digital. Cryptocurrency is simply a new type of digital money that works on the internet.\n\n## What You'll Learn:\n- What cryptocurrency is in simple terms\n- How it's similar to regular money\n- Why people find it exciting\n- Basic safety tips\n\nDon't worry - we'll take it step by step! 🌟"
-        },
-        {
-          "type": "youtube",
-          "content": "https://www.youtube.com/embed/video1Id"
+          "content": "# Welcome to the World of SolMan! 🛡️\n\nDear learner,\n\nSolMan transcends the typical memecoin by establishing a mission to cleanse the Solana blockchain of deceitful practices. It's not just about fun; it's about integrity, safety, and community. Here, we'll delve into:\n\n- The ethos of SolMan\n- Strategies to combat memecoin fraud\n- The significance of community governance\n- How you can contribute to this vision\n\nPrepare for an enlightening journey into ethical cryptocurrency! 🌟"
         },
         {
           "type": "text",
-          "content": "# Understanding Cryptocurrency 💡\n\nThink of cryptocurrency like digital cash:\n\n- Instead of keeping it in a regular wallet, you keep it in a digital wallet\n- Instead of banks keeping records, many computers work together to keep track\n- You can send it to anyone, anywhere, just like sending an email\n\n## Why People Like It:\n- It works 24/7\n- You can send money across the world quickly\n- You have direct control of your money\n\nRemember: Start small and learn at your own pace! 🌱"
+          "content": "# The Genesis of SolMan 🌱\n\nSolMan was born from the necessity to address:\n\n- **Scammers and Rug Pulls**: With its inception, SolMan set out to reduce the prevalence of these detrimental practices.\n- **Community Trust**: By showcasing how memecoins can operate with transparency and fairness.\n- **Meme Culture**: Protecting and promoting the joy of memes without the shadow of exploitation.\n\nIts mission is a testament to the potential of blockchain for good."
+        },
+        {
+          "type": "text",
+          "content": "# How SolMan Works to Protect Users 🛡️\n\n- **Decentralized Governance**: SolMan leverages DAOs for community-driven decisions, ensuring no single entity has control.\n- **Transparency**: Every step is taken with openness, from tokenomics to project updates.\n- **Education**: By educating users on safe practices in crypto, SolMan aims to empower rather than exploit.\n- **Community Vigilance**: Encouraging a culture where community members look out for each other, reporting suspicious activities.\n\nThis holistic approach aims to make the crypto space safer for all."
+        },
+        {
+          "type": "text",
+          "content": "# SolMan's Role in Meme Culture 🎉\n\n- **Celebration of Memes**: SolMan cherishes the creativity and humor of memes, providing a platform where they're celebrated.\n- **Community Events**: From meme contests to community discussions, SolMan keeps the spirit alive in a positive way.\n- **Meme Preservation**: There's an initiative to archive and showcase memes, ensuring the cultural history is preserved.\n- **Inclusivity**: By fostering an environment where anyone can participate, SolMan democratizes meme creation and appreciation.\n\nMemes here are not just for laughs; they're a form of community and culture."
+        },
+        {
+          "type": "text",
+          "content": "# Joining the SolMan Movement 🤝\n\n- **Be Active**: Participate in governance, vote on proposals, and help steer the project's direction.\n- **Educate Others**: Spread the word about safe crypto practices and the mission of SolMan.\n- **Create and Share**: Engage in the meme culture, but with integrity and respect for the community.\n- **Stay Informed**: Keep up with updates, understand the developments, and contribute ideas.\n\nYour involvement can make a real difference in how cryptocurrencies are perceived and used."
         }
       ],
       "quiz": [
         {
-          "question": "What is cryptocurrency most similar to in our everyday life?",
-          "answer": "Digital cash that works like sending an email",
+          "question": "What is one of the primary goals of SolMan on Solana?",
+          "answer": "To reduce scams and rug pulls",
           "options": [
-            "Digital cash that works like sending an email",
-            "A complicated computer program",
-            "A type of credit card"
+            "To reduce scams and rug pulls",
+            "To only increase in value",
+            "To centralize control of memecoins"
           ],
-          "hint": "Think about how easily we send emails today"
+          "hint": "Think about safety in the crypto space"
         },
         {
-          "question": "What's one main benefit of cryptocurrency?",
-          "answer": "You can send money to anyone at any time, just like email",
+          "question": "How does SolMan engage its community?",
+          "answer": "Through DAOs and community events",
           "options": [
-            "You can send money to anyone at any time, just like email",
-            "It's only for technical people",
-            "It's controlled by banks"
+            "Through DAOs and community events",
+            "By dictating terms without community input",
+            "By ignoring community feedback"
           ],
-          "hint": "Remember how we compared it to sending an email"
+          "hint": "Focus on governance and participation"
+        },
+        {
+          "question": "What does SolMan aim to preserve in the crypto world?",
+          "answer": "Meme culture with integrity",
+          "options": [
+            "Meme culture with integrity",
+            "Just financial transactions",
+            "The anonymity of users"
+          ],
+          "hint": "Consider the cultural aspect"
+        },
+        {
+          "question": "What is a key way to contribute to the SolMan mission?",
+          "answer": "Educating others on safe crypto practices",
+          "options": [
+            "Educating others on safe crypto practices",
+            "Keeping all knowledge to oneself",
+            "Only investing in SolMan for profit"
+          ],
+          "hint": "Think about community empowerment"
         }
       ],
       "requires": []
-    },
-    {
-      "id": "level2",
-      "title": "Keeping Your Digital Money Safe",
-      "description": "Learn the essential safety practices for managing cryptocurrency, explained in simple terms.",
-      "image": "/courses/level1/cover.jpg",
-      "featured": false,
-      "slides": [
-        {
-          "type": "text",
-          "content": "# Keeping Your Digital Money Safe 🔒\n\nDear friend,\n\nJust like how we keep our regular money safe in wallets and banks, we need to keep our digital money safe too!\n\n## In This Lesson:\n- Creating a secure digital wallet\n- Protecting your passwords and keys\n- Simple safety rules to follow\n- What to do and what not to do\n\nWe'll make safety easy to understand! 💪"
-        },
-        {
-          "type": "youtube",
-          "content": "https://www.youtube.com/embed/video2Id"
-        },
-        {
-          "type": "text",
-          "content": "# Safety First! 🛡️\n\n## Important Safety Tips:\n\n1. **Keep Your Keys Private**\n   - Think of them like the keys to your house\n   - Never share them with anyone\n   - Store them in a safe place\n\n2. **Use Strong Passwords**\n   - Like a strong lock on your front door\n   - Mix letters, numbers, and symbols\n   - Keep them secret and safe\n\n3. **Be Careful Who You Trust**\n   - If something sounds too good to be true, it probably is\n   - Only use well-known services\n   - When in doubt, ask someone you trust\n\nRemember: Safety is simple when you follow the basic rules! ✨"
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What should you do with your private keys?",
-          "answer": "Keep them secret and safe, like your house keys",
-          "options": [
-            "Keep them secret and safe, like your house keys",
-            "Share them with friends",
-            "Post them online"
-          ],
-          "hint": "Think about how you treat your house keys"
-        },
-        {
-          "question": "What's a good way to protect your digital money?",
-          "answer": "Use strong passwords and keep them private",
-          "options": [
-            "Use strong passwords and keep them private",
-            "Use simple passwords that are easy to remember",
-            "Share passwords with trusted friends"
-          ],
-          "hint": "Think about how you protect valuable things"
-        }
-      ],
-      "requires": ["level1"]
-    },
-    {
-      "id": "level3",
-      "title": "Growing Your Digital Savings",
-      "description": "Discover smart and safe ways to manage your cryptocurrency investments.",
-      "image": "/courses/level1/cover.jpg",
-      "featured": true,
-      "slides": [
-        {
-          "type": "text",
-          "content": "# Growing Your Digital Savings Wisely 🌱\n\nWelcome back!\n\nNow that you understand the basics, let's learn about growing your digital savings responsibly.\n\n## In This Course:\n- Understanding different ways to save\n- Making smart decisions\n- Avoiding common mistakes\n- Planning for the future\n\nWe'll keep it simple and practical! 📚"
-        },
-        {
-          "type": "youtube",
-          "content": "https://www.youtube.com/embed/video3Id"
-        },
-        {
-          "type": "text",
-          "content": "# Smart Saving Tips 💰\n\n## Important Rules to Remember:\n\n1. **Start Small**\n   - Never invest more than you can afford to lose\n   - Take your time to learn\n   - Build confidence gradually\n\n2. **Stay Diversified**\n   - Don't put all your eggs in one basket\n   - Keep most of your savings in traditional accounts\n   - Think of crypto as a small part of your savings\n\n3. **Be Patient**\n   - Good things take time\n   - Don't chase quick profits\n   - Focus on learning and understanding\n\nRemember: Slow and steady wins the race! 🐢"
-        }
-      ],
-      "quiz": [
-        {
-          "question": "What's the most important rule when saving with cryptocurrency?",
-          "answer": "Never invest more than you can afford to lose",
-          "options": [
-            "Never invest more than you can afford to lose",
-            "Put all your savings into it",
-            "Borrow money to invest more"
-          ],
-          "hint": "Think about safe and responsible saving"
-        },
-        {
-          "question": "What's the best approach to cryptocurrency saving?",
-          "answer": "Start small and learn gradually",
-          "options": [
-            "Start small and learn gradually",
-            "Invest everything quickly",
-            "Take big risks for quick profits"
-          ],
-          "hint": "Remember the tortoise and the hare story"
-        }
-      ],
-      "requires": ["level2"]
     }
   ]
 }
