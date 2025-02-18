@@ -1,0 +1,136 @@
+{
+  "courses": [
+    {
+      "id": "level1",
+      "title": "Welcome to the World of Digital Money",
+      "description": "A friendly introduction to cryptocurrencies for beginners.",
+      "image": "/courses/level1/cover.jpg",
+      "featured": true,
+      "slides": [
+        {
+          "type": "text",
+          "content": "# Welcome to Your Cryptocurrency Journey! 👋\n\nDear learner,\n\nJust like how we moved from letters to email, the world of money is also going digital. Cryptocurrency is simply a new type of digital money that works on the internet.\n\n## What You'll Learn:\n- What cryptocurrency is in simple terms\n- How it's similar to regular money\n- Why people find it exciting\n- Basic safety tips\n\nDon't worry - we'll take it step by step! 🌟"
+        },
+        {
+          "type": "youtube",
+          "content": "https://www.youtube.com/embed/video1Id"
+        },
+        {
+          "type": "text",
+          "content": "# Understanding Cryptocurrency 💡\n\nThink of cryptocurrency like digital cash:\n\n- Instead of keeping it in a regular wallet, you keep it in a digital wallet\n- Instead of banks keeping records, many computers work together to keep track\n- You can send it to anyone, anywhere, just like sending an email\n\n## Why People Like It:\n- It works 24/7\n- You can send money across the world quickly\n- You have direct control of your money\n\nRemember: Start small and learn at your own pace! 🌱"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What is cryptocurrency most similar to in our everyday life?",
+          "answer": "Digital cash that works like sending an email",
+          "options": [
+            "Digital cash that works like sending an email",
+            "A complicated computer program",
+            "A type of credit card"
+          ],
+          "hint": "Think about how easily we send emails today"
+        },
+        {
+          "question": "What's one main benefit of cryptocurrency?",
+          "answer": "You can send money to anyone at any time, just like email",
+          "options": [
+            "You can send money to anyone at any time, just like email",
+            "It's only for technical people",
+            "It's controlled by banks"
+          ],
+          "hint": "Remember how we compared it to sending an email"
+        }
+      ],
+      "requires": []
+    },
+    {
+      "id": "level2",
+      "title": "Keeping Your Digital Money Safe",
+      "description": "Learn the essential safety practices for managing cryptocurrency, explained in simple terms.",
+      "image": "/courses/level1/cover.jpg",
+      "featured": false,
+      "slides": [
+        {
+          "type": "text",
+          "content": "# Keeping Your Digital Money Safe 🔒\n\nDear friend,\n\nJust like how we keep our regular money safe in wallets and banks, we need to keep our digital money safe too!\n\n## In This Lesson:\n- Creating a secure digital wallet\n- Protecting your passwords and keys\n- Simple safety rules to follow\n- What to do and what not to do\n\nWe'll make safety easy to understand! 💪"
+        },
+        {
+          "type": "youtube",
+          "content": "https://www.youtube.com/embed/video2Id"
+        },
+        {
+          "type": "text",
+          "content": "# Safety First! 🛡️\n\n## Important Safety Tips:\n\n1. **Keep Your Keys Private**\n   - Think of them like the keys to your house\n   - Never share them with anyone\n   - Store them in a safe place\n\n2. **Use Strong Passwords**\n   - Like a strong lock on your front door\n   - Mix letters, numbers, and symbols\n   - Keep them secret and safe\n\n3. **Be Careful Who You Trust**\n   - If something sounds too good to be true, it probably is\n   - Only use well-known services\n   - When in doubt, ask someone you trust\n\nRemember: Safety is simple when you follow the basic rules! ✨"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What should you do with your private keys?",
+          "answer": "Keep them secret and safe, like your house keys",
+          "options": [
+            "Keep them secret and safe, like your house keys",
+            "Share them with friends",
+            "Post them online"
+          ],
+          "hint": "Think about how you treat your house keys"
+        },
+        {
+          "question": "What's a good way to protect your digital money?",
+          "answer": "Use strong passwords and keep them private",
+          "options": [
+            "Use strong passwords and keep them private",
+            "Use simple passwords that are easy to remember",
+            "Share passwords with trusted friends"
+          ],
+          "hint": "Think about how you protect valuable things"
+        }
+      ],
+      "requires": ["level1"]
+    },
+    {
+      "id": "level3",
+      "title": "Growing Your Digital Savings",
+      "description": "Discover smart and safe ways to manage your cryptocurrency investments.",
+      "image": "/courses/level1/cover.jpg",
+      "featured": true,
+      "slides": [
+        {
+          "type": "text",
+          "content": "# Growing Your Digital Savings Wisely 🌱\n\nWelcome back!\n\nNow that you understand the basics, let's learn about growing your digital savings responsibly.\n\n## In This Course:\n- Understanding different ways to save\n- Making smart decisions\n- Avoiding common mistakes\n- Planning for the future\n\nWe'll keep it simple and practical! 📚"
+        },
+        {
+          "type": "youtube",
+          "content": "https://www.youtube.com/embed/video3Id"
+        },
+        {
+          "type": "text",
+          "content": "# Smart Saving Tips 💰\n\n## Important Rules to Remember:\n\n1. **Start Small**\n   - Never invest more than you can afford to lose\n   - Take your time to learn\n   - Build confidence gradually\n\n2. **Stay Diversified**\n   - Don't put all your eggs in one basket\n   - Keep most of your savings in traditional accounts\n   - Think of crypto as a small part of your savings\n\n3. **Be Patient**\n   - Good things take time\n   - Don't chase quick profits\n   - Focus on learning and understanding\n\nRemember: Slow and steady wins the race! 🐢"
+        }
+      ],
+      "quiz": [
+        {
+          "question": "What's the most important rule when saving with cryptocurrency?",
+          "answer": "Never invest more than you can afford to lose",
+          "options": [
+            "Never invest more than you can afford to lose",
+            "Put all your savings into it",
+            "Borrow money to invest more"
+          ],
+          "hint": "Think about safe and responsible saving"
+        },
+        {
+          "question": "What's the best approach to cryptocurrency saving?",
+          "answer": "Start small and learn gradually",
+          "options": [
+            "Start small and learn gradually",
+            "Invest everything quickly",
+            "Take big risks for quick profits"
+          ],
+          "hint": "Remember the tortoise and the hare story"
+        }
+      ],
+      "requires": ["level2"]
+    }
+  ]
+}
